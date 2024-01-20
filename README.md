@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQFT24LWEIFQSQ/article-cover_image-shrink_720_1280/0/1703302241702?e=2147483647&v=beta&t=gFpk5jV3SKcNSMBS3gkLvAOQz__gtZkSBTsRab3yzZY)](https://PrarthanaVengurlekar.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQFT24LWEIFQSQ/article-cover_image-shrink_720_1280/0/1703302241702?e=2147483647&v=beta&t=gFpk5jV3SKcNSMBS3gkLvAOQz__gtZkSBTsRab3yzZY)](https://PrarthanaVengurlekar5.io)
 <h1 align="center">Hi 👋, I'm Prarthana Vengurlekar</h1>
 <h3 align="center">I am actively looking for a job or a chance to work in the field of data science and analytics with AI..</h3>
 <img align="right"alt="Coding"width="400" src="https://media.licdn.com/dms/image/D4E12AQE_RdYjqFcuww/article-cover_image-shrink_720_1280/0/1680981775461?e=2147483647&v=beta&t=jJ_5gW9WdQ_kO28R7EZD70TsRXyUQ108dGLxWNCbW28">
