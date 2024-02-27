@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://cdn.geekwire.com/wp-content/uploads/2023/09/creator5-630x308.jpeg" alt="PrarthanaVengurlekar5" /> </p>
 
-- 🌱 I’m currently learning *Tableau
-
-- 💬 Ask me about **MYSQL, Python, Machine Learning with Python, MS Excel, Power BI, AI, Generative AI, NLP, Text Processing, Text Classification, OpenCV, Keras, TensorFlow, PyTorch
+- 💬 Ask me about **MYSQL, Python, Machine Learning with Python, MS Excel, Power BI,Tableau, AI, Generative AI, NLP, Text Processing, Text Classification, OpenCV, Keras, TensorFlow, PyTorch
 
 - 📫 How to reach me **prarthanavengurlekar5@gmail.com**
 
