@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prarthana Vengurlekar</h1>
-<h3 align="center">I am actively looking for a job or a chance to work in the field of data science and analytics with AI..</h3>
+<h3 align="center">Actively looking for a job in the field of data science and analytics with AI..</h3>
 
 <p align="left"> <img src="https://cdn.geekwire.com/wp-content/uploads/2023/09/creator5-630x308.jpeg" alt="PrarthanaVengurlekar5" /> </p>
 
